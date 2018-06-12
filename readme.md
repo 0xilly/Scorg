@@ -1,3 +1,5 @@
+# ARCHIVED please see https://github.com/MinecraftForge/Scorge for the current project
+
 # Scorg
 A Language adapter for [scala](https://www.scala-lang.org/)
 
